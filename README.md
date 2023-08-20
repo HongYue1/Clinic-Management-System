@@ -19,7 +19,7 @@ To run this project, you need:
 # Instructions
 1. Clone the repository to your local machine.
 ```
- git clone https://github.com/your-username/clinic-management-system.git
+ git clone https://github.com/HongYue1/Clinic-Management-System.git
 ```
 
 2. Compile the source code using a compatible C compiler.
