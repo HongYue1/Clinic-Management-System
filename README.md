@@ -22,17 +22,22 @@ To run this project, you need:
  git clone https://github.com/HongYue1/Clinic-Management-System.git
 ```
 
-2. Compile the source code using a compatible C compiler.
+2. Go inside the folder:
+```
+cd Clinic-Management-System
+```
+
+3. Compile the source code using a compatible C compiler.
 ```
 gcc main.c -o clinic
 ```
 
-3. Run the compiled binary.
+4. Run the compiled binary.
 ```
 ./clinic
 ```
 
-4. Choose between Admin Mode or User Mode by entering the corresponding option:
+5. Choose between Admin Mode or User Mode by entering the corresponding option:
 * Admin Mode: Enter the provided password (default password: 1234) for access to administrative features.
 * User Mode: No password is required. Users can view patient records and today's reservations.
 
