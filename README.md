@@ -33,6 +33,13 @@ gcc main.c -o clinic
 ```
 
 4. Run the compiled binary.
+
+in windows CMD type:
+```
+clinc
+```
+
+in windows powershell or linux:
 ```
 ./clinic
 ```
