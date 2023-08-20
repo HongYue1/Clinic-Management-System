@@ -60,6 +60,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 This project is licensed under the MIT License.
 
 # Acknowledgments
-Special thanks to IMT and iti for their help and support in teaching me to be able to develop this project.
-
+I would like to extend my appreciation to IMT and ITI for their assistance and support in teaching me the necessary skills to develop this project. Their guidance has been invaluable in helping me successfully complete this endeavor.
 
