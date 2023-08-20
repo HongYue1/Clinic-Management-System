@@ -57,5 +57,9 @@ In User Mode, the following features are available:
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
 # License
-This project is licensed under the <a href="[https://www.google.com/](https://github.com/HongYue1/Clinic-Management-System/blob/main/LICENSE)https://github.com/HongYue1/Clinic-Management-System/blob/main/LICENSE" target="_blank">MIT License.</a>
-.
+This project is licensed under the MIT License.
+
+# Acknowledgments
+Special thanks to IMT and iti for their help and support in teaching me to be able to develop this project.
+
+
